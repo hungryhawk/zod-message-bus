@@ -1,3 +1,3 @@
 export const hello = () => {
-    console.log('Hello my friend another')
+    console.log('Hello my friend another too')
 } 
